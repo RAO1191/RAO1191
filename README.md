@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub!  
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Sou Rodrigo Alves, Coordenador de TI na  [Mello Transportes](https://www.mellotransportes.log.br/) e fundador da Artech Soluções & Tecnologia. Aqui compartilho projetos focados em infraestrutura de TI, segurança da informação, BI e desenvolvimento de sistemas. Fique à vontade para explorar, colaborar ou aprender!
 
@@ -44,6 +44,3 @@ Sou Rodrigo Alves, Coordenador de TI na  [Mello Transportes](https://www.mellotr
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
