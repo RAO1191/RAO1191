@@ -25,3 +25,5 @@ Sou Rodrigo Alves, Coordenador de TI na  [Mello Transportes](https://www.mellotr
 [![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/security/business/microsoft-purview)
 [![Bitdefender](https://img.shields.io/badge/Bitdefender-E01F1F?style=for-the-badge&logo=bitdefender&logoColor=white)](https://www.bitdefender.com/)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.micr)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
